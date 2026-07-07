@@ -165,7 +165,7 @@ The project demonstrates that moving from intuition-driven to data-driven decisi
 Data Analytics Intern — India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mohammed-ashif-maniyar-95b347152)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://https://github.com/MdashifManiyar/nassau_candy-profitability_and_margin_performance_analysis)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/MdashifManiyar/nassau_candy-profitability_and_margin_performance_analysis)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mdasifmaniyar73@gmail.com)
 
 > *Built as part of a 3-month Data Analytics internship at Unified Mentor — demonstrating end-to-end skills in data cleaning, EDA, KPI design, dashboard development, and business storytelling.*
