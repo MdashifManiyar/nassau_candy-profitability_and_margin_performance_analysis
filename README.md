@@ -162,7 +162,7 @@ The project demonstrates that moving from intuition-driven to data-driven decisi
 ## 👤 Author & Contact
 
 **Mohammed Ashif Maniyar**
-Data Analytics Intern — Unified Mentor, Haryana, India
+Data Analytics Intern — India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mohammed-ashif-maniyar-95b347152)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://https://github.com/MdashifManiyar/nassau_candy-profitability_and_margin_performance_analysis)
