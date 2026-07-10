@@ -164,6 +164,7 @@ The project demonstrates that moving from intuition-driven to data-driven decisi
 **Mohammed Ashif Maniyar**
 Data Analytics Intern — India
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?logo=streamlit)](https://ashif1.streamlit.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mohammed-ashif-maniyar-95b347152)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/MdashifManiyar/nassau_candy-profitability_and_margin_performance_analysis)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mdasifmaniyar73@gmail.com)
